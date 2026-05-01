@@ -3,3 +3,4 @@ pyomo
 plotly
 pandas
 numpy
+matplotlib
